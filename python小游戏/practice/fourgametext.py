@@ -23,7 +23,7 @@ while (guess != secret) and (times < 3):
             print('机会用完了，退下吧！')
 print('游戏结束，欢迎下次再来！')
 
-
+print()
 
 
 i = 10
