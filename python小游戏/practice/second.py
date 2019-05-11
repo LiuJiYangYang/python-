@@ -1,6 +1,8 @@
 # 以下哪个变量的命名不正确？为什么？
 myteacher = '小甲鱼'
 yourteacher = myteacher
+
+
 yourteacher = '黑夜'
 print(myteacher)      # 小甲鱼
 
